@@ -1,3 +1,7 @@
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{array}
+
 # NHANES-2017-2020-Open-Ended-Investigation
 ## Using demographic, questionnaire and body-examination data, can we predict the likelihood of diabetes and obesity?
 Repo for STATS 503 NHANES project \
